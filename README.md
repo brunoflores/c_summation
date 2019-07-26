@@ -4,7 +4,10 @@
 
 Compile with `make`.
 
-`usage: sum.out <integeger value>`
+```
+$ ./sum.out
+usage: sum.out <integeger value>
+```
 
 Example:
 
