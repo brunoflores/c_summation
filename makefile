@@ -1,2 +1,2 @@
 all:
-	gcc sum.c -o sum.out
+	gcc sum.c -o bin/sum.out
