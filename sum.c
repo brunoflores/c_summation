@@ -7,7 +7,7 @@ void *runner(void *param); /* threads call this function */
 int main(int argc, char *argv[])
 {
 	pthread_t tid; /* the thread identifier */
-	pthread_attr_t attr; /*set of thread attributes */
+	pthread_attr_t attr; /* set of thread attributes */
 
 	if (argc != 2) {
 		fprintf(stderr, "usage: sum.out <integeger value>\n");
