@@ -9,14 +9,14 @@ make
 ```
 
 ```bash
-$ ./sum.out
+$ ./bin/sum.out
 usage: sum.out <integeger value>
 ```
 
 Example:
 
 ```bash
-$ ./sum.out 5
+$ ./bin/sum.out 5
 sum = 15
 ```
 
